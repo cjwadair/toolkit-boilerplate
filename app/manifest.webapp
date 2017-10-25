@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "Toolkit Boilerplate",
+  "launch_path": "/index.html",
+  "description": "Opinionated web development template using gulp es7, nunjucks and sass.",
+  "icons": {
+    "128": "/images/touch/icon-128x128.png"
+  },
+  "developer": {
+    "name": "Chris Adair",
+    "url": "https://github.com/cjwadair"
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "default_locale": "en",
+  "permissions": {
+  },
+  "locales": {
+    "en": {
+      "name": "Toolkit",
+      "description": "Opinionated web development template using gulp es7, nunjucks and sass.",
+    }
+  }
+}

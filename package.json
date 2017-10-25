@@ -1,0 +1,31 @@
+{
+  "name": "Toolkit Boilerplate",
+  "version": "0.0.1",
+  "description": "Opinionated Boilerplate for Web Development Projects",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-core": "^6.14.0",
+    "babel-preset-env": "1.6.1",
+    "browser-sync": "^2.18.7",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-htmlmin": "3.0.0",
+    "gulp-if": "2.0.2",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-load-plugins": "^1.2.4",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-nunjucks-render": "2.2.1",
+    "gulp-plumber": "^1.1.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-sequence": "^0.4.6",
+    "gulp-shell": "^0.5.2",
+    "gulp-sourcemaps": "^2.4.1",
+    "gulp-uglify": "^2.0.1",
+    "gulp-util": "^3.0.8",
+    "sw-precache": "5.2.0",
+    "sw-toolbox": "3.6.0",
+    "workbox-build": "2.1.0"
+  }
+}
