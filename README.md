@@ -2,7 +2,7 @@
 
 ![Logos](https://github.com/cjwadair/toolkit-boilerplate/blob/master/app/images/logo-display.jpg)
 
-##Front End Boilerplate for Web Development
+## Front End Boilerplate for Web Development
 
 Front-end boilerplate for Gulp with everything you need to get projects up and running quickly.
 
@@ -18,7 +18,7 @@ Supports and uses gulp, sass, nunjucks, es6/es7 and service workers. Features in
 * **Progressive Web App enabled**: scores 100/100 on Lighthouse tests [note: needs to be completed]
 * **Simple and easy to use templating**: uses [Nunjucks](https://mozilla.github.io/nunjucks/) to enable development of complex sites and applications without the additional overhead of a framework
 
-##Installation
+## Installation
 
 First download or clone this repo, then run:
 
@@ -28,7 +28,7 @@ to install dev dependencies. Use sudo if needed.
 
 Toolkit requires Node.js and Gulp to run. See below for instructions on how to download and install these dependencies if required.
 
-##Prerequisites
+## Prerequisites
 
 ### [Node.js](https://nodejs.org)
 
@@ -49,9 +49,9 @@ If Gulp is installed it should return a version number at or above 3.9.x. If you
 `$ npm install --global gulp`
 
 
-##Available Commands
+## Available Commands
 
-###Run in Development Mode
+### Run in Development Mode
 
 `$ gulp serve`
 
@@ -60,19 +60,19 @@ Starts a server in development mode and prints out IP addresses for testing loca
 `serve` does not use [service worker](http://www.html5rocks.com/en/tutorials/service-worker/introduction/)
 caching, so your site will stop being available when the web server stops running.
 
-###Run in Production Mode
+### Run in Production Mode
 
 `$ gulp serve:dist`
 
 Builds and optimizes your files start and serves a fully a production version of your site from the dist folder. Service worker is enabled in production mode but hot loading is not enabled.
 
-###Bundle for Production
+### Bundle for Production
 
 run `gulp`
 
 All of the files you need will be in /dist with your images optimized, css compressed and js compressed
 
-##Browser Support
+## Browser Support
 
 The last two versions of the following browsers:
 
@@ -83,7 +83,7 @@ The last two versions of the following browsers:
 * Opera
 * Internet Explorer 9+
 
-##More Information
+## More Information
 
 Additional documentation and resources are coming soon. In the meantime, please check the following sites for more information on the components of Toolkit:
 
@@ -94,11 +94,11 @@ Additional documentation and resources are coming soon. In the meantime, please 
 - [Gulp](https://gulpjs.com)
 - [Sass](http://sass-lang.com/)
 
-##Contributing
+## Contributing
 
 Contributions, questions and comments are all welcome and encouraged. Please check the issues log for more infomation (coming soon).
 
-##License
+## License
 
 The MIT License (MIT)
 Copyright 2017 Chris Adair
