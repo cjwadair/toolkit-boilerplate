@@ -1,4 +1,4 @@
-[Toolkit boilerplate](https://github.com/cjwadair/toolkit-boilerplate/blob/master/app/images/toolkit-logo-horizontal-new.jpg)
+![Toolkit boilerplate](https://github.com/cjwadair/toolkit-boilerplate/blob/master/app/images/toolkit-logo-horizontal-new.jpg)
 
 ![Logos](https://github.com/cjwadair/toolkit-boilerplate/blob/master/app/images/logo-display.jpg)
 
